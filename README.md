@@ -6,15 +6,15 @@ A simple and dynamic ecommerce web application built with **PHP**, **MySQL**, **
 
 ## 📌 Features
 
-- ✅ User registration and login system
-- 🛍️ Product listing with price and stock info
-- ➕ Add to cart functionality
-- 🛒 Cart management (edit quantity, remove items)
-- 💳 Checkout and order placement
-- 🔐 Session-based user authentication
-- 🗂️ Modular PHP structure (reusable components)
-- 🧾 Order summary and price breakdown (MRP, selling price)
-- 🧑 Admin-ready file structure (can be extended)
+-  User registration and login system
+-  Product listing with price and stock info
+-  Add to cart functionality
+-  Cart management (edit quantity, remove items)
+-  Checkout and order placement
+-  Session-based user authentication
+-  Modular PHP structure (reusable components)
+-  Order summary and price breakdown (MRP, selling price)
+-  Admin-ready file structure (can be extended)
 
 ---
 
