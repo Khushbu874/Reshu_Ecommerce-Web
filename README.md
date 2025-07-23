@@ -21,10 +21,10 @@ A simple and dynamic ecommerce web application built with **PHP**, **MySQL**, **
 ## 📁 Project Structure
 
 reshu-ecommerce/
-│
-├── config/
-│ └── db.php # Database connection
-│
+|
+|── config/
+|└── db.php # Database connection
+|
 ├── includes/
 │ ├── footer.php 
 │ └── header.php # Common header/navbar
